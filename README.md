@@ -7,4 +7,4 @@
 - 💬 Ask me about **AI Agents, MCP servers, local LLM inference with CUDA or on Apple Silicon, ML/Cybersecurity Research**
 - 📫 How to reach me: **[linkedin.com/in/christopher-anandaraj](https://linkedin.com/in/christopher-anandaraj)**
 - 😄 Pronouns: **he/him**
-- ⚡ Fun fact: I'm Town Hall 17 in Clash of Clans and trained a YOLOv11 model to detect every building in the game to detect optimal strategy — because why not
+- ⚡ Fun fact: I'm Town Hall 17 in Clash of Clans and trained a YOLOv11 model to detect every building in the game for optimal strategy — because why not
